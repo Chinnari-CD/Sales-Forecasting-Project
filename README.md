@@ -112,18 +112,6 @@ A graph is generated showing:
 * Error Evaluation using MAE
 * Graphical Visualization
 
----
-
-## Applications
-
-* Retail Sales Forecasting
-* Inventory Planning
-* Demand Prediction
-* Financial Forecasting
-* Business Analytics
-
----
-
 ## Conclusion
 
 This project demonstrates how Linear Regression can be used to forecast future sales using historical sales data. The model successfully predicts future sales values and visualizes trends, making it useful for business planning and decision-making.
